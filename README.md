@@ -9,7 +9,7 @@
 📫 How to reach me: ...
 
 <a href="https://www.instagram.com/jy_s21022/?hl=ko" target="_blank"><img src="https://img.shields.io/badge/jy_s21022-FFCCCC?style=flat-square&logo=Instagram&logoColor=Black"/></a>&nbsp;
-  <a href="https://https://blog.naver.com/hulk0514/?hl=ko" target="_blank"><img src="https://img.shields.io/badge/hulk0514-B8F3B8?style=flat-square&logo=Naver&logoColor=white"/></a>
+  <a href="https://blog.naver.com/hulk0514/?hl=ko" target="_blank"><img src="https://img.shields.io/badge/hulk0514-B8F3B8?style=flat-square&logo=Naver&logoColor=white"/></a>
 
 ---
 ### 🔥 My Tech Stack 🔥
