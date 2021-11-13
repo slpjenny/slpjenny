@@ -27,7 +27,6 @@ Techs that I've used at least once
 
 <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/-Firebase-yellow?style=flat-square&logo=Firebase&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/-AWS Amplify-FF9900?style=flat-square&logo=AWS Amplify&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 
