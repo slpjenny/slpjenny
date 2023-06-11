@@ -4,11 +4,10 @@
 
 🎓 I’m currently studying at Seoul Women's University<br>
 🌱 I’m now majoring in Information Security<br>
-🌈 I'm interested in Android App Developing<br>
+🌈 I'm interested in Android App Developing & Security Consulting <br>
 ⚡ Fun fact: My MBTI -> *ISFJ*<br><br>
 📫 How to reach me: ...
 
-<a href="https://www.instagram.com/jy_s21022/?hl=ko" target="_blank"><img src="https://img.shields.io/badge/jy_s21022-FFCCCC?style=flat-square&logo=Instagram&logoColor=Black"/></a>&nbsp;
   <a href="https://blog.naver.com/hulk0514/?hl=ko" target="_blank"><img src="https://img.shields.io/badge/hulk0514-B8F3B8?style=flat-square&logo=Naver&logoColor=white"/></a>
 
 ---
